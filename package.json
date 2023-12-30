@@ -1,0 +1,15 @@
+{
+  "name": "b52wetamil-npm-project",
+  "version": "1.0.0",
+  "description": "First NPM Project to explain the npm libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "lodash": "^4.17.21"
+  }
+}
