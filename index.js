@@ -8,3 +8,5 @@ const obj2 = { age: 40, name: "sanjay" };
 console.log(obj1 === obj2);
 
 console.log(lodash.isEqual(obj1, obj2));
+
+// class

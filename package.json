@@ -4,12 +4,16 @@
   "description": "First NPM Project to explain the npm libraries",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "batch-info": "echo 'Batch: 52WETAMIL Last Day of 2023'",
+    "list-files": "dir",
+    "display-project": "cat package.json | grep 'name'"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chart.js": "^4.4.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
   }
 }
